@@ -1,0 +1,51 @@
+
+
+.topnav {
+  height: 75px;
+  width: 100%;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  background-color: #C62828;
+  overflow-x: hidden;
+  padding-top: 15px;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.topnav h2 {
+  color: white;
+  text-align: center;
+}
+
+.sidenav {
+  height: 100%;
+  width: 450px;
+  position: fixed;
+  z-index: 1;
+  top: 75px;
+  left: 0;
+  background-color: #f7f7f7;
+  overflow-x: hidden;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.termgpa {
+  position: fixed;
+  bottom: 50px;
+  right: 150px;
+}
+
+.fullgpa {
+  position: fixed;
+  bottom: 50px;
+  left: 100px;
+}
+
+.mainsss {
+  margin-left: 450px;
+  margin-top: 75px;
+  padding: 20px 10px;
+  text-align: center;
+}
