@@ -12,5 +12,5 @@ https://rabieo.github.io/Mcmaster-GPA-Calculator/
 * HTML/CSS
 
 ## Picture
-![alt text]()
+![alt text](https://github.com/rabieo/McMaster-GPA-Calculator-Web-App/blob/master/screenshot.jpg)
 
